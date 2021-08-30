@@ -1,0 +1,10 @@
+{
+  "common-error": "Something went wrong. Please try again later.",
+  "tracking-address-is-required": "Tracking address is required",
+  "no-ethereum-provider-error": "No Ethereum browser extension detected, install MetaMask on desktop or visit from a dApp browser on mobile.",
+  "unsupported-network": "You're connecting to an unsupported network.",
+  "address-invalid": "Address is not valid",
+  "bundle-in-the-specific-address-page-1": "You should go back to ",
+  "bundle-in-the-specific-address-page-2": " to bundle/debundle address",
+  "duplicate-watching-address": "You are currently watching this address."
+}

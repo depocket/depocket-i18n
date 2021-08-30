@@ -1,0 +1,9 @@
+{
+  "login-with-meta-mask": "Login with MetaMask",
+  "log-in-to-depocket": "Log In to DePocket",
+  "wallet-connect": "Wallet Connect",
+  "coinbase-wallet": "Coinbase Wallet",
+  "track-your-address-or-ens": "Track your Wallet by Address",
+  "etherum-address-or-ens": "Enter your address",
+  "sign-message-head": "DePocket uses this cryptographic signature in place of a password, verifying that you are the owner of this address."
+}
