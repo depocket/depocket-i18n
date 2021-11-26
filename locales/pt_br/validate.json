@@ -1,0 +1,10 @@
+{
+    "common-error": "Alguma coisa deu errado. Tente novamente depois.",
+    "tracking-address-is-required": "Endereço de rastreio é obrigatório",
+    "no-ethereum-provider-error": "Nenhuma extensão do navegador Ethereum detectada, instale o MetaMask no desktop ou visite de um navegador dApp no celular.",
+    "unsupported-network": "Você está se conectando a uma rede não compatível.",
+    "address-invalid": "Endereço não é válido",
+    "bundle-in-the-specific-address-page-1": "Você deveria voltar para ",
+    "bundle-in-the-specific-address-page-2": " para agrupar/desagrupar endereço",
+    "duplicate-watching-address": "Você já está acompanhando este endereço no momento."
+  }
